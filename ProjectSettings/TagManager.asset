@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Proteina
+  - Ion
+  - Ion-Amarelo
+  - Ion-Azul
+  - Ion-Laranja
+  - Ion-Rosa
+  - Ion-Verde
+  - Ion-Vermelho
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fundo
+    uniqueID: 3944447479
+    locked: 0
+  - name: 2 camada
+    uniqueID: 2616960787
+    locked: 0
+  - name: 1 camada
+    uniqueID: 3110793139
+    locked: 0
